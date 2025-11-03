@@ -245,6 +245,7 @@ img {
   display: inline-block;
   padding: 1rem 2rem;
   border: 1px solid #333;
+  color: #333;
   background-color: transparent;
   font-family: inherit;
   font-size: inherit;
@@ -257,7 +258,7 @@ img {
 }
 
 .contact .btn {
-  width: 100%
+  width: 100%;
 }
 
 @media (max-width: 768px) {
